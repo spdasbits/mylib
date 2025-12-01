@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+myutils/__init__.py
+myutils/math_tools.py
+myutils/text_tools.py
+myutils_spdas.egg-info/PKG-INFO
+myutils_spdas.egg-info/SOURCES.txt
+myutils_spdas.egg-info/dependency_links.txt
+myutils_spdas.egg-info/top_level.txt

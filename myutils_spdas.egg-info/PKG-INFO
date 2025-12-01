@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: myutils_spdas
+Version: 0.0.1
+Summary: My Python utility package
+Author-email: Shrikrishna Das <spdasgcek@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/spdasbits/mylib
+Requires-Python: >=3.14.0
+Description-Content-Type: text/markdown
