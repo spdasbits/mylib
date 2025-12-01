@@ -8,10 +8,10 @@ version = "0.0.1"               # start with 0.0.1
 description = "My Python utility package"
 readme = "README.md"
 authors = [
-  { name="Your Name", email="your.email@example.com" },
+  { name="Shrikrishna Das", email="spdasgcek@gmail.com" },
 ]
 license = { text = "MIT" }
 dependencies = []
 
 [project.urls]
-"Homepage" = "https://github.com/yourname/myutils"
+"Homepage" = "https://github.com/spdasbits/mylib"
