@@ -16,7 +16,3 @@ dependencies = []
 
 [project.urls]
 "Homepage" = "https://github.com/spdasbits/mylib"
-
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
